@@ -11,3 +11,9 @@ Learning Data Structures and Algorithms
 * Equal Sum Partition
 * Count Of Subset With Given Sum
 * AtCoder - Frog 2
+
+## Day 3 - 
+* Minimum Sum Subset Difference
+* Count Of Subset With Given Difference
+* AtCoder - Vacation
+
