@@ -17,6 +17,6 @@ Learning Data Structures and Algorithms
 * Count Of Subset With Given Difference
 * AtCoder - Vacation
 
-### Day 4 - 
+## Day 4 - 
 * Target Sum
 * Unbounded Knapsack
