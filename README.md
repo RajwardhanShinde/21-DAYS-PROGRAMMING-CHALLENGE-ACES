@@ -21,3 +21,7 @@ Learning Data Structures and Algorithms
 * Target Sum
 * Unbounded Knapsack
 * Rod Cutting
+
+## Day 5 -
+* Coin Change - Number Of Ways To Make Amount
+* Coin Change - Minimum Number Of Coins To Make Amount
