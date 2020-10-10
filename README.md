@@ -25,3 +25,7 @@ Learning Data Structures and Algorithms
 ## Day 5 -
 * Coin Change - Number Of Ways To Make Amount
 * Coin Change - Minimum Number Of Coins To Make Amount
+
+## Day 6 -
+* Longest Common Subsequence
+* Longest Common Substring
