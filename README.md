@@ -29,3 +29,8 @@ Learning Data Structures and Algorithms
 ## Day 6 -
 * Longest Common Subsequence
 * Longest Common Substring
+
+## Day 7 -
+* Print Longest Common Subsequence
+* Shortest Common Super Sequence
+* Minimum Number Of Insertion And Deletion(Convert String A To B)
