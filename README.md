@@ -34,3 +34,8 @@ Learning Data Structures and Algorithms
 * Print Longest Common Subsequence
 * Shortest Common Super Sequence
 * Minimum Number Of Insertion And Deletion(Convert String A To B)
+
+## Day 8 -
+* Longest Palindromic Subsequence
+* Minimum Deletion To Make String Palindrome
+* Print SCS(Shortest Common SuperSequence)
