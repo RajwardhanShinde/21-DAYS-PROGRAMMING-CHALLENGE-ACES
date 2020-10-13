@@ -55,3 +55,10 @@ Learning Data Structures and Algorithms
 * Minimum Deletion To Make String Palindrome
 * Print SCS(Shortest Common SuperSequence)
 ```
+
+## Day 9 -
+```
+* Longest Repeating Subsequence
+* Sequence Pattern Matching
+* Minimum Insertion To Make String Palindrome
+```
