@@ -62,3 +62,8 @@ Learning Data Structures and Algorithms
 * Sequence Pattern Matching
 * Minimum Insertion To Make String Palindrome
 ```
+
+## Day 10 -
+```
+* Matrix Chain Multiplication
+```
