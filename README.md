@@ -72,3 +72,8 @@ Learning Data Structures and Algorithms
 ```
 * Palindrome Partitioning
 ```
+
+## Day 12 -
+```
+* Number Of Ways To Evaluate Expression To True
+```
