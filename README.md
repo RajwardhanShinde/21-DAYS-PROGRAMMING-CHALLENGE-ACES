@@ -77,3 +77,9 @@ Learning Data Structures and Algorithms
 ```
 * Number Of Ways To Evaluate Expression To True
 ```
+
+## Day 13 -
+```
+* [OctoberDusk ACM Contest](https://www.hackerrank.com/contests/october-dusk-2020/challenges)
+* [AtCoder Begineer Contest 180](https://atcoder.jp/contests/abc180)
+```
