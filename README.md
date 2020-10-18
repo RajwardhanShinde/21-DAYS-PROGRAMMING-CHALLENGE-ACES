@@ -57,3 +57,6 @@ Learning Data Structures and Algorithms
 ## Day 13 -
 * [OctoberDusk ACM Contest](https://www.hackerrank.com/contests/october-dusk-2020/challenges)
 * [AtCoder Begineer Contest 180](https://atcoder.jp/contests/abc180)
+
+## Day 14 - 
+* [KickStart Round G](https://codingcompetitions.withgoogle.com/kickstart/round/00000000001a0069)
