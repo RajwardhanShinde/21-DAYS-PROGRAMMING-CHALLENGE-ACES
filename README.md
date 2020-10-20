@@ -63,3 +63,7 @@ Learning Data Structures and Algorithms
 
 ## Day 15 - 
 * Scrambled String
+
+## Day 16 - 
+* [Codeforces Round 677(Div 3)](https://codeforces.com/contest/1433)
+* Egg Dropping Problem
