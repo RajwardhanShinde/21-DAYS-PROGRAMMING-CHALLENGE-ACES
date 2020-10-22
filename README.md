@@ -70,3 +70,6 @@ Learning Data Structures and Algorithms
 
 ## Day 17 -
 * [Multi Knapsack](https://binarysearch.com/problems/Multi-Knapsack)
+
+## Day 18 - 
+* [Diameter Of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
