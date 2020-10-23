@@ -73,3 +73,6 @@ Learning Data Structures and Algorithms
 
 ## Day 18 - 
 * [Diameter Of Binary Tree](https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1)
+
+## Day 19 - 
+* [Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
