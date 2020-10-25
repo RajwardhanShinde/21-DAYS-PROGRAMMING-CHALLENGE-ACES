@@ -79,3 +79,7 @@ Learning Data Structures and Algorithms
 
 ## Day 20 -
 * [Maximum Path Sum Between Two Leaf Nodes](https://practice.geeksforgeeks.org/problems/maximum-path-sum/1)
+
+## Day 21 -
+* Sum Tree(Root Value Equal to its child)
+* Diagonal Tree Traversal
